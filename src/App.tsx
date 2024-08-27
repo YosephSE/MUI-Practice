@@ -5,7 +5,7 @@ import Toa from "./comp/toast"
 const App = () => {
   return (
     <div>
-      <Toa/>
+      <Alert/>
       
     </div>
   )
