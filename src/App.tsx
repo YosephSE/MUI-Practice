@@ -13,6 +13,7 @@ const App = () => {
     <div>
       <Alert/>
       <GroupAvatars/>
+      <Toa/>
       <FloatingActionButtons/>
       <Facebook/>
       <ContinuousSlider/>
